@@ -1,0 +1,12 @@
+C:\Users\pankaj\source\repos\C#\ConsoleApp1\BasicConcepts\bin\Debug\net6.0\BasicConcepts.deps.json
+C:\Users\pankaj\source\repos\C#\ConsoleApp1\BasicConcepts\bin\Debug\net6.0\BasicConcepts.dll
+C:\Users\pankaj\source\repos\C#\ConsoleApp1\BasicConcepts\bin\Debug\net6.0\BasicConcepts.pdb
+C:\Users\pankaj\source\repos\C#\ConsoleApp1\BasicConcepts\obj\Debug\net6.0\BasicConcepts.csproj.AssemblyReference.cache
+C:\Users\pankaj\source\repos\C#\ConsoleApp1\BasicConcepts\obj\Debug\net6.0\BasicConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pankaj\source\repos\C#\ConsoleApp1\BasicConcepts\obj\Debug\net6.0\BasicConcepts.AssemblyInfoInputs.cache
+C:\Users\pankaj\source\repos\C#\ConsoleApp1\BasicConcepts\obj\Debug\net6.0\BasicConcepts.AssemblyInfo.cs
+C:\Users\pankaj\source\repos\C#\ConsoleApp1\BasicConcepts\obj\Debug\net6.0\BasicConcepts.csproj.CoreCompileInputs.cache
+C:\Users\pankaj\source\repos\C#\ConsoleApp1\BasicConcepts\obj\Debug\net6.0\BasicConcepts.dll
+C:\Users\pankaj\source\repos\C#\ConsoleApp1\BasicConcepts\obj\Debug\net6.0\refint\BasicConcepts.dll
+C:\Users\pankaj\source\repos\C#\ConsoleApp1\BasicConcepts\obj\Debug\net6.0\BasicConcepts.pdb
+C:\Users\pankaj\source\repos\C#\ConsoleApp1\BasicConcepts\obj\Debug\net6.0\ref\BasicConcepts.dll
